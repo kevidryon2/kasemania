@@ -1,0 +1,13 @@
+//Juice Clicker! Made by kevidryon2
+Let's make a game!
+name:Juice Clicker
+author:Kevin
+desc:Make juice to become richer than Jeff Bezos! From lemons, oranges, strawberries and a lot of fruits, skyrocket your money and spread your juice accross the globe!
+created:23/11/2020
+updated:23/11/2020
+version:0.001
+
+Settings
+background:https://www.publicdomainpictures.net/pictures/210000/velka/yellow-textured-pattern-background-1488752082hHr.jpg
+building cost increase:150%
+building cost refund:90%
