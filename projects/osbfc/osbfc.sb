@@ -1,0 +1,5 @@
+TextWindow.WriteLine("OSBFC (Operating System Builder From Code)")
+TextWindow.WriteLine("Enter the path of the ZIP file containing the source code of your operating system (Written in OSBL), you should place the .dll libraries you need for your operating system in a folder called Libraries inside your operating system's zip file. ")
+zipPath = TextWindow.Read()
+TextWindow.WriteLine("Unzipping file...")
+LDZip.UnZip(zipPath,"SYS")
